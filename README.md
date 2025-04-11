@@ -12,3 +12,7 @@ pdf - https://drive.google.com/file/d/17AWwfb9UTj98j-_4JQXMFYk5nvs7foVo/view?usp
 
 - 프로젝트 전체 ppt <br>
 pdf - https://drive.google.com/file/d/13OX1Ij1zVfGHxgeeus9ZrcXoVBc__JL4/view?usp=drive_link <br>
+
+
+- 자격증
+   SQLD -https://github.com/1541267/resume/blob/main/%EC%9E%90%EA%B2%A9%EC%A6%9D/SQLD.pdf
