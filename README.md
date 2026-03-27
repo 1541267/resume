@@ -1,6 +1,6 @@
 <h2>이력서와 포트폴리오 링크 입니다</h2>
 
-- <a href="https://drive.google.com/file/d/1APeiE3OKdnuMoAmA1DcqQWWORI6PMfjn/view?usp=drive_link">백엔드 지원 이력서<a/>
+- <a href="https://drive.google.com/file/d/1XsicdjpywTAV8bRkxD4_vsMbEsW5FHEt/view?usp=drive_link">백엔드 지원 이력서<a/>
 - <a href="https://drive.google.com/file/d/1BHXM3XOpcCT2fSW1Szf0rbq-ByrpZ1u8/view?usp=drive_link">포트폴리오</a><br>
 
 </div>
